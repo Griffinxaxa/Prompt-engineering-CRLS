@@ -1,6 +1,6 @@
 # To Start
 
-###### Template
+###### AI to Human
 Here is an example of text written by the late Dostoevsky: 
 Some lofty and exceptionally noble idea was maintained in it, anyway. It was said afterwards that the continuation was hurriedly forbidden and even that the progressive review had to suffer for having printed the first part. That may very well have been so, for what was not possible in those days? Though, in this case, it is more likely that there was nothing of the kind, and that the author himself was too lazy to conclude his essay.
 Here is an example of text written by AI: 
