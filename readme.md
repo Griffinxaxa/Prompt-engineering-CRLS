@@ -30,4 +30,26 @@ Advantages of template-based prompts include their simplicity and adaptability. 
 
 ##### 2.2 Cloze-Style Prompts:
 
-Cloze-style prompts are made up of partial sentences or phrases that have some words omitted. These special prompts, also called cloze prompts, ask language models for specific answers. They get their name from the cloze test format often used in language assessment where people must fill in missing parts of an incomplete sentence. In prompt engineering, cloze-style prompts offer...
+The style of cloze prompts refers to the use of partial sentences or phrases with missing words, also called cloze prompts, to get particular responses from language models. These kind of prompts are inspired by the format found in a type of language test called a "cloze test." In this kind of test, people must complete sentences that are not finished by filling in the gaps with appropriate words. When we discuss prompt engineering for different tasks like creating text or classification jobs , using these types of cloze-style prompts offers a particular structure for guiding how language models produce or classify things.
+
+The power of cloze-style prompts is that they guide language models to pay attention to important surrounding details and use this information in their educated guesses about the missing parts. When you give a prompt with incomplete sentence or phrase, it makes the model think about context clues and sentence structure for creating possible completions. This helps in producing more precise outputs that match well with the given situation.
+
+Prompts in the style of cloze can be very helpful when the needed task is to anticipate missing words or finish sentences given a particular context. For instance, with language modeling tasks, we may use prompts in the style of cloze to create coherent and suitable continuations for given text parts. In similar ways, for tasks like sentiment analysis or recognizing named entities in language understanding jobs - these kinds of prompts could give context-based hints that guide an AI model’s classification process (Bloomberg et al., 2020).
+
+In total, cloze-style prompts show a well-arranged and efficient way for prompt engineering. They use the ideas of context-based guessing to improve language models' results in many tasks and areas. By creating cloze-style prompts that fit particular task goals and situation needs, people who study or use this field can make prompt engineering better to get more correct outputs from language models that also match with the context.
+
+##### 3. Applications of Prompt Engineering:
+
+Engineering finds application in various NLP tasks and domains, giving a flexible method to improve language models' performance. By customizing prompts for every task's requirements, this approach allows better use of pre-trained models and helps in adjusting them more effectively to the specific task. In this part, we will discuss some important uses of engineering:
+
+##### 3.1 Question Answering:
+
+Tasks for question answering (QA) involve giving precise and appropriate responses to questions in natural language. The performance of QA systems can be greatly enhanced by prompt engineering, which means creating prompts that direct the language model towards important details and provide brief yet informative reactions. For example, in a factoid-based QA task, a prompt may contain the question stem along with related context or hints to assist the model in recognizing suitable passages and extracting correct answers from them.
+
+##### 3.2 Text Generation:
+
+Tasks for generating text cover various applications like translating between languages, making summaries and creating new pieces of writing. Giving prompt instructions can improve models that generate text by offering clear suggestions or limitations to direct the process of generation. For instance, within abstractive summarization's setting, a prompt could state the needed length and main content to be present in summary. This would help make model produce summaries that are both more understandable and informative.
+
+##### 3.3 Sentiment Analysis:
+
+Tasks for sentiment analysis are about figuring out the feeling or emotion in a text, like positive, negative and neutral. Prompt engineering can enhance the precision of models for sentiment analysis by creating prompts that...
