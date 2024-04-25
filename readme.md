@@ -1,4 +1,5 @@
 # To Start
+# Wow... just wow.. this is the worst research I've ever read...:
 
 ###### AI to Human
 Here is an example of text written by the late Dostoevsky: 
